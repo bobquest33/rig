@@ -1,0 +1,14 @@
+{
+  "Deps": [
+    {
+      "ImportPath": "github.com/mitchellh/cli",
+      "Rev": "e3c2e3d39391e9beb9660ccd6b4bd9a2f38dd8a0"
+    },
+    {
+      "ImportPath": "github.com/mattbaird/gosaml",
+      "Rev": "5ab2eb2db6d89b7fab8298d1651f56369182625f"
+    }
+  ],
+  "GoVersion": "go1.4",
+  "ImportPath": "github.com/fujin/onelogin_saml_proxy"
+}
